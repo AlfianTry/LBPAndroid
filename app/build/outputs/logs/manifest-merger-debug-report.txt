@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:5:5-23
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:7:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:8:20-75
+application
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:11:3-23:17
+	android:label
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:12:7-43
+activity#aa.aa.aa.IotestActivity
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:14:5-22:16
+	android:label
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:16:9-41
+	android:name
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:15:9-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:17:7-21:23
+action#android.intent.action.MAIN
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:18:9-60
+	android:name
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:20:9-68
+	android:name
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml:20:19-66
+uses-sdk
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		ADDED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/microplex/AndroidProjects/LBPAndroid1/app/src/main/AndroidManifest.xml

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/microplex/AndroidProjects/LBPAndroid1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/microplex/AndroidProjects/LBPAndroid1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "119,163,56",
+                        "endColumns": "43,37,62",
+                        "endOffsets": "158,196,114"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,137",
+                        "endColumns": "43,37,62",
+                        "endOffsets": "94,132,195"
+                    }
+                }
+            ]
+        }
+    ]
+}
